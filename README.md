@@ -10,7 +10,7 @@ Author   : RSecx[X]x.iD@H4x0r
 
 WhatsApp : +628892205181 
 
-Gmail    ; rsecxxx@gmail.com
+Gmail    : rsecxxx@gmail.com
 
 ## Buy My Coffe
 DANA & GOPAY
