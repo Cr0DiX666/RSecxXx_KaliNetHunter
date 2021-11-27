@@ -7,11 +7,14 @@ apt update && apt upgrade && apt install curl && curl -LO https://raw.githubuser
 ```
 
 Author   : RSecx[X]x.iD@H4x0r
+
 WhatsApp : +628892205181 
+
 Gmail    ; rsecxxx@gmail.com
 
 ## Buy My Coffe
 DANA & GOPAY
+Atas Nama R Z R
 ```
 0856000006369
 ```
