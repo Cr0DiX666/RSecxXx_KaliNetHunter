@@ -16,5 +16,5 @@ Gmail    : rsecxxx@gmail.com
 DANA & GOPAY
 Atas Nama R Z R
 ```
-0856000006369
+085600006369
 ```
