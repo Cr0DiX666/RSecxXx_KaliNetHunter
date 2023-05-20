@@ -3,7 +3,7 @@ Cara Penginstallan
 
 ## Unduh Script Di*HOME*
 ```
-apt update && apt upgrade && apt install curl && curl -LO https://raw.githubusercontent.com/RSecxXx/RSecxXx_KaliNetHunter/main/kalinethunter && chmod +x kalinethunter && ./kalinethunter
+apt update && apt upgrade && apt install curl && curl -LO https://raw.githubusercontent.com/Cr0DiX666/RSecxXx_KaliNetHunter/main/kalinethunter && chmod +x kalinethunter && ./kalinethunter
 ```
 
 ## Penggunaan
@@ -18,11 +18,11 @@ Jika pengguna kali maka secara default vnc startakan memulai vncserver dengan DI
 Jika terjadi kesalahan SSL: verifikasi sertifikat gagal
 Jalankan kembali skrip dengan parameter tambahan --insecureatau salin tempel perintah ini./kalinethunter --insecure
 
-Author   : RSecx[X]x.iD@H4x0r
+Author   : Cr0DiX666
 
-WhatsApp : +628892205181 
+WhatsApp : +6289527123567
 
-Gmail    : rsecxxx@gmail.com
+Gmail    : Cr0DiX666@gmail.com
 
 ## Buy My Coffe
 DANA & GOPAY
